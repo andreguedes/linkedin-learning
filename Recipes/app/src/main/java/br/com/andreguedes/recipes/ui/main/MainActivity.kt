@@ -1,7 +1,8 @@
-package br.com.andreguedes.recipes
+package br.com.andreguedes.recipes.ui.main
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import br.com.andreguedes.recipes.R
 
 class MainActivity : AppCompatActivity() {
 
